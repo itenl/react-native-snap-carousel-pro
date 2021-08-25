@@ -1,3 +1,6 @@
+# [Because the submitted PR authors cannot be merged in time, the clone code is submitted to npm first, and the Repo will be deleted in the future](https://github.com/meliorence/react-native-snap-carousel/pull/858)
+
+
 # react-native-snap-carousel
 
 ![platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square&colorB=191A17)
